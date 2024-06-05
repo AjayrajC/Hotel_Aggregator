@@ -1,2 +1,2 @@
-# Hotel_Booking_Analysis
+# Hotel_Aggregator
 Hotel Aggregator analysis using Tableau
